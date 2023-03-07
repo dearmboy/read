@@ -71,7 +71,7 @@
 	<key>noticeversion</key>
 	<string>1.5</string>
 	<key>noticecontent</key>
-	<string>如果无法搜索，请重启app</string>
+	<string>如果无法搜索，请重启app!请尽快更新到最新版本，解决闪退的问题。</string>
 	<key>settingversionurl</key>
 	<string>https://raw.githubusercontent.com/dearmboy/read/main/version.plist</string>
 	<key>settingdataurl</key>
