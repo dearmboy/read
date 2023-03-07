@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>versionNum</key>
-	<string>2.0.99</string>
+	<string>2.1.2</string>
 	<key>isuserank</key>
 	<true/>
 	<key>isuserank1</key>
@@ -22,6 +22,8 @@
 	<true/>
 	<key>isuserank8</key>
 	<true/>
+	<key>isuserank9</key>
+	<true/>
 	<key>isuserankinstall</key>
 	<true/>
 	<key>isuserankinstall2</key>
@@ -32,12 +34,14 @@
 	<true/>
 	<key>isuserankinstall5</key>
 	<true/>
+	<key>isuserankinstall6</key>
+	<true/>
 	<key>isHalftopon</key>
 	<false/>
 	<key>isFtopon</key>
-	<true/>
-	<key>isnotusetoponnativead</key>
 	<false/>
+	<key>isnotusetoponnativead</key>
+	<true/>
 	<key>isnotusetoponopenad</key>
 	<false/>
 	<key>isuseopenad</key>
@@ -51,17 +55,17 @@
 	<key>Numberof_Chapter_AD_Scroll</key>
 	<string>5</string>
 	<key>TimeofRewardAD</key>
-	<string>3700</string>
+	<string>3600</string>
 	<key>TimeofOpenAD</key>
 	<string>3600</string>
 	<key>noticeversion</key>
-	<string>1.1</string>
+	<string>1.4</string>
 	<key>noticecontent</key>
-	<string>如果阅读时出现章节缺失或者空白的情况，请先手动刷新。如果仍有问题，请使用换源功能！</string>
+	<string></string>
 	<key>settingversionurl</key>
-	<string>https://gitee.com/tonypeter342423/toplist/raw/master/version.plist</string>
+	<string>https://raw.githubusercontent.com/dearmboy/read/main/version.plist</string>
 	<key>settingdataurl</key>
-	<string>https://gitee.com/tonypeter342423/toplist/raw/master/newSourceDataDict.plist</string>
+	<string>https://raw.githubusercontent.com/dearmboy/read/main/source.plist</string>
 	<key>accesarray</key>
 	<array>
 		<string>拯救美强惨反派</string>
