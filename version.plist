@@ -71,7 +71,7 @@
 	<key>noticeversion</key>
 	<string>1.5</string>
 	<key>noticecontent</key>
-	<string>如果无法搜索，请重启app!请尽快更新到最新版本，解决闪退的问题。</string>
+	<string>第一次安装时，ios14以下系统进入app后请等待五分钟再进行搜索，如果遇到无法搜索的情况，请通过“意见反馈”联系我们！</string>
 	<key>settingversionurl</key>
 	<string>https://raw.githubusercontent.com/dearmboy/read/main/version.plist</string>
 	<key>settingdataurl</key>
