@@ -103,7 +103,7 @@
 			<key>contentSubKeyStart2</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>detailURL</key>
-			<string>HRhlcQn2Y6QoRldACjIkkeySI87LP4fA</string>
+			<string>HRhlcQn2Y6SeJmt6F/bUYukeT9uls9fs</string>
 			<key>isBackSearch</key>
 			<false/>
 			<key>isChapterNeedDetail</key>
@@ -137,7 +137,7 @@
 			<key>isNeedParseMiddle</key>
 			<false/>
 			<key>isNeedPost</key>
-			<false/>
+			<true/>
 			<key>isNeedReplaceURL</key>
 			<false/>
 			<key>isNeedSlowDown</key>
@@ -193,9 +193,9 @@
 			<key>searchName</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>searchPostBody</key>
-			<string>Rw/g0hx26bI=</string>
+			<string>B5JwIS62Kem86TJq7ix9+w==</string>
 			<key>searchURL</key>
-			<string>HRhlcQn2Y6QoRldACjIkkVepKWCX65s2JNPCePl3iUGCLatRNQxIXg==</string>
+			<string>HRhlcQn2Y6SeJmt6F/bUYvK57OOsuD+EMwdQy20b4ZU=</string>
 			<key>searchURLKeyEnd</key>
 			<string>NT3WD8HJmTU=</string>
 			<key>searchURLKeyStart</key>
@@ -820,7 +820,7 @@
 			<key>contentSubKeyStart2</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>detailURL</key>
-			<string>ouf1B+Doqkf47ifKAp+JBuka37sF+oe7</string>
+			<string>ouf1B+Doqkf47ifKAp+JBkqCrEToyULv</string>
 			<key>isChapterNeedDetail</key>
 			<true/>
 			<key>isImgNeedDetail</key>
@@ -844,7 +844,7 @@
 			<key>searchAuthorKeyStart</key>
 			<string>lJn5UIZimNo09qlyk0CubGWb+cBC/naPRZD39PJxccU=</string>
 			<key>searchAuthorURL</key>
-			<string>ouf1B+Doqkf47ifKAp+JBoS3F447px5UkbbUyWvSsjvhKPXs0unEL2k6BVEOKER+</string>
+			<string>ouf1B+Doqkf47ifKAp+JBm7T0ywGLhx/c6I+2J3cav+d9564G19tt7EyxtqydUME</string>
 			<key>searchBookNameKeyEnd</key>
 			<string>fquI+R7EEc8=</string>
 			<key>searchBookNameKeyStart</key>
@@ -868,209 +868,15 @@
 			<key>searchPostBody</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>searchURL</key>
-			<string>ouf1B+Doqkf47ifKAp+JBoS3F447px5UkbbUyWvSsjvhKPXs0unEL2k6BVEOKER+</string>
+			<string>ouf1B+Doqkf47ifKAp+JBm7T0ywGLhx/c6I+2J3cav+d9564G19tt7EyxtqydUME</string>
 			<key>searchURLKeyEnd</key>
 			<string>+RcGgUUDS9U=</string>
 			<key>searchURLKeyStart</key>
 			<string>lJn5UIZimNp48TFE+JG4WRLz9oy18PxHPmLIzc720+U=</string>
 		</dict>
 		<dict>
-			<key>AuthorFirst</key>
-			<true/>
-			<key>DirectISChangeURL</key>
-			<false/>
-			<key>DirectsearchAuthorKeyEnd</key>
-			<string>+RcGgUUDS9U=</string>
-			<key>DirectsearchAuthorKeyEnd2</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>DirectsearchAuthorKeyStart</key>
-			<string>1CBMUtJPZeP+WIXldpRF1CktdJ4byXN/ATfYykWCOIGL4tPz1Cyj02XH+HRUFykE</string>
-			<key>DirectsearchBookNameKeyEnd</key>
-			<string>+RcGgUUDS9U=</string>
-			<key>DirectsearchBookNameKeyStart</key>
-			<string>1CBMUtJPZeP+WIXldpRF1CktdJ4byXN/HMxNfOGDwmnQMYCVREoWDlIpBXo2/TsH</string>
-			<key>DirectsearchBookNameKeyStart2</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>DirectsearchChapterKeyEnd</key>
-			<string>+RcGgUUDS9U=</string>
-			<key>DirectsearchChapterKeyEnd2</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>DirectsearchChapterKeyStart</key>
-			<string>1CBMUtJPZeP+WIXldpRF1CktdJ4byXN/hTuxsBiW1f1TgbMJY+VD0YhKoMXc6VHw+wiRAIwg5vs=</string>
-			<key>DirectsearchImageKeyEnd</key>
-			<string>+RcGgUUDS9U=</string>
-			<key>DirectsearchImageKeyEnd2</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>DirectsearchImageKeyStart</key>
-			<string>1CBMUtJPZeP+WIXldpRF1JoDE84nIb22SkXdTivcJkfvwLZ4ypBBuw==</string>
-			<key>DirectsearchURLKeyEnd</key>
-			<string>+RcGgUUDS9U=</string>
-			<key>DirectsearchURLKeyEnd2</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>DirectsearchURLKeyStart</key>
-			<string>1CBMUtJPZeP+WIXldpRF1CktdJ4byXN/Od+s8e2zcV+h6Lun6EqOWxraUQM75ah8</string>
-			<key>Ex_DirectsearchURLKey</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>PostReferer</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>ReplaceURLKey</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>ReplaceURLKey2</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>addFolderURL</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>addFoloder</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>bookImgKeyEnd</key>
-			<string>UZhFgGemBS8Thqs8vMPDoQ==</string>
-			<key>bookImgKeyEnd2</key>
-			<string>+RcGgUUDS9U=</string>
-			<key>bookImgKeyStart</key>
-			<string>p1lX3KWvhsvD+sq1+McGQhgWvKN8tmQm</string>
-			<key>chapterNameKeyEnd</key>
-			<string>fquI+R7EEc8=</string>
-			<key>chapterNameKeyStart</key>
-			<string>nT2ThCAPZFM=</string>
-			<key>chapterPageKeyEnd</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>chapterPageKeyStart</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>chapterPageNotInclude</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>chapterPattern</key>
-			<string>pDOv9Ynp6PCyt3MPAP2HCw==</string>
-			<key>chapterSplitKeyEnd</key>
-			<string>6LihDafm/m4=</string>
-			<key>chapterSplitKeyStart</key>
-			<string>Jzca3bKRmEQ=</string>
-			<key>chapterSubEnd</key>
-			<string>iCk06Xc0R+0=</string>
-			<key>chapterSubStart</key>
-			<string>QNr4xPCYDF6Qz8np2vM2RA==</string>
-			<key>chapterSubStart2</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>chapterURLKeyEnd</key>
-			<string>+RcGgUUDS9U=</string>
-			<key>chapterURLKeyEnd_back</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>chapterURLKeyStart</key>
-			<string>7qJd4BbDCfcUBJgSWP2t0g==</string>
-			<key>chapterURLKeyStart_back</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>contentFilterArray</key>
-			<array>
-				<string>chap_tp();</string>
-			</array>
-			<key>contentKeyEnd</key>
-			<string>p1lX3KWvhssrR+WOrQ+edQ==</string>
-			<key>contentKeyStart</key>
-			<string>p1lX3KWvhstrG/oojSKoGnHFQTmcpnz8R0Tm8gytHqAc0o8oroWvDqNuqZ2Yn2RZEe/Y+CQAg1EVQywq3PckV50n2dO/CFl+tAYSNOxuE5A=</string>
-			<key>contentSubKeyEnd</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>contentSubKeyStart</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>contentSubKeyStart2</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>detailURL</key>
-			<string>ouf1B+Doqkd4FCBJQKiLNkI0hQE6QC1wJPJoFDiM+N0=</string>
-			<key>isBackSearch</key>
-			<false/>
-			<key>isChapterNeedDetail</key>
-			<true/>
-			<key>isChapterNeedNext</key>
-			<false/>
-			<key>isChapterNeedPrefix</key>
-			<false/>
-			<key>isContentFindNextWithDesc</key>
-			<false/>
-			<key>isContentNeedCheckInclude</key>
-			<true/>
-			<key>isContentNeedNext</key>
-			<true/>
-			<key>isDirectNeedUseImgURL</key>
-			<false/>
-			<key>isImgNeedDetail</key>
-			<true/>
-			<key>isKeyNeedGBK</key>
-			<false/>
-			<key>isNeedAddFolderURL</key>
-			<false/>
-			<key>isNeedChangeURL</key>
-			<false/>
-			<key>isNeedDetail</key>
-			<true/>
-			<key>isNeedDirectURLDetail</key>
-			<false/>
-			<key>isNeedGBK</key>
-			<false/>
-			<key>isNeedParseMiddle</key>
-			<false/>
-			<key>isNeedPost</key>
-			<false/>
-			<key>isNeedReplaceURL</key>
-			<false/>
-			<key>isNeedSlowDown</key>
-			<false/>
-			<key>isNextContentNeedDetail</key>
-			<true/>
-			<key>isNextNeedDetail</key>
-			<false/>
-			<key>isRemoveLastChapter</key>
-			<false/>
-			<key>isSearchNeedPage</key>
-			<false/>
 			<key>isValid</key>
 			<false/>
-			<key>nextContentKeyEnd</key>
-			<string>BNUGFeYSREM=</string>
-			<key>nextContentKeyStart</key>
-			<string>X6cTp3BZ9ny/ojpGsHXmBA==</string>
-			<key>nextNotIncludeKey</key>
-			<string>MTSA/EHTgi0RL+9ZLfUwCw==</string>
-			<key>searchAuthorKeyEnd</key>
-			<string>6j9mMkD3SbI=</string>
-			<key>searchAuthorKeyEnd2</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>searchAuthorKeyStart</key>
-			<string>p1lX3KWvhsscxHffJOGrisv5ThX91FBTq+ug3LvF4G0=</string>
-			<key>searchBookNameKeyEnd</key>
-			<string>fquI+R7EEc8=</string>
-			<key>searchBookNameKeyStart</key>
-			<string>nT2ThCAPZFM=</string>
-			<key>searchChapterKeyEnd</key>
-			<string>pkbhDLN5AsU=</string>
-			<key>searchChapterKeyEnd2</key>
-			<string>fquI+R7EEc8=</string>
-			<key>searchChapterKeyStart</key>
-			<string>gino0CIyH3yqc+E0urSjvg==</string>
-			<key>searchChapterNextEnd</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>searchChapterNextPage</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>searchChapterNextStart</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>searchChapterNextStart2</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>searchContentSubEnd</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>searchContentSubStart</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>searchKeyEnd</key>
-			<string>cZmw9DFzVkc=</string>
-			<key>searchKeyStart</key>
-			<string>p1lX3KWvhsu6hKvquSZYNCWydvosNJgT</string>
-			<key>searchName</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>searchPostBody</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>searchURL</key>
-			<string>ouf1B+Doqkd4FCBJQKiLNkI0hQE6QC1wdO4RbrV6neIc4CNDUWFq8L4nHIwnhYPY/oGagETXT0uliZSqfkzabWB2+8LasYe+</string>
-			<key>searchURLKeyEnd</key>
-			<string>+RcGgUUDS9U=</string>
-			<key>searchURLKeyStart</key>
-			<string>GNz1FRnhe6XGz3e/SARA7YY+ZTN7DGzqZr0AmmBvfNU=</string>
-			<key>searchURLKeyStart2</key>
-			<string>Rw/g0hx26bI=</string>
 		</dict>
 		<dict>
 			<key>AuthorFirst</key>
@@ -1599,99 +1405,8 @@
 			<string>7qJd4BbDCfcUBJgSWP2t0g==</string>
 		</dict>
 		<dict>
-			<key>AuthorFirst</key>
-			<true/>
-			<key>bookImgKeyEnd</key>
-			<string>K441VocN6W8=</string>
-			<key>bookImgKeyEnd2</key>
-			<string>+RcGgUUDS9U=</string>
-			<key>bookImgKeyStart</key>
-			<string>Bk5dx7OKJZebKeJq3uvzWPEgJ3+LA6U4</string>
-			<key>chapterNameKeyEnd</key>
-			<string>/EpqquvLVkM=</string>
-			<key>chapterNameKeyStart</key>
-			<string>nT2ThCAPZFM=</string>
-			<key>chapterSplitKeyEnd</key>
-			<string>6LihDafm/m4=</string>
-			<key>chapterSplitKeyStart</key>
-			<string>P8NjEmW52zU=</string>
-			<key>chapterSubEnd</key>
-			<string>iCk06Xc0R+0=</string>
-			<key>chapterSubStart</key>
-			<string>EOPrVsqhsq/jx0w/MXguiA==</string>
-			<key>chapterURLKeyEnd</key>
-			<string>+RcGgUUDS9U=</string>
-			<key>chapterURLKeyEnd_back</key>
-			<string>NT3WD8HJmTU=</string>
-			<key>chapterURLKeyStart</key>
-			<string>7qJd4BbDCfcUBJgSWP2t0g==</string>
-			<key>chapterURLKeyStart_back</key>
-			<string>yqDJL2olyd7tksDxpx7eRA==</string>
-			<key>contentFilterArray</key>
-			<array>
-				<string>天才本站地址：[]s.lw.！无广告！</string>
-				<string>onclick="hui"</string>
-			</array>
-			<key>contentKeyEnd</key>
-			<string>6j9mMkD3SbI=</string>
-			<key>contentKeyStart</key>
-			<string>p1lX3KWvhssMd8+yILtEWrijzzW2kxtz2DttEhUXbNL8yCW5lE/QCHI+fDYq2gUz</string>
-			<key>contentSubKeyEnd</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>contentSubKeyStart</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>contentSubKeyStart2</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>detailURL</key>
-			<string>ouf1B+DoqkfIzWyrMyF66E80VohNNdOrmMeIwzTc0Ug=</string>
-			<key>isChapterNeedDetail</key>
-			<true/>
-			<key>isChapterNeedPrefix</key>
-			<false/>
-			<key>isImgNeedDetail</key>
-			<true/>
-			<key>isNeedDetail</key>
-			<true/>
-			<key>isNeedPost</key>
-			<false/>
 			<key>isValid</key>
 			<false/>
-			<key>searchAuthorKeyEnd</key>
-			<string>pkbhDLN5AsU=</string>
-			<key>searchAuthorKeyEnd2</key>
-			<string>fquI+R7EEc8=</string>
-			<key>searchAuthorKeyStart</key>
-			<string>1J9CTy/vEe+Y+YnmmcHrTA==</string>
-			<key>searchBookNameKeyEnd</key>
-			<string>fquI+R7EEc8=</string>
-			<key>searchBookNameKeyStart</key>
-			<string>nT2ThCAPZFM=</string>
-			<key>searchChapterKeyEnd</key>
-			<string>pkbhDLN5AsU=</string>
-			<key>searchChapterKeyEnd2</key>
-			<string>fquI+R7EEc8=</string>
-			<key>searchChapterKeyStart</key>
-			<string>WeoSN45Y38CU9y7+NEvXtiaGeEuWhHyn</string>
-			<key>searchContentSubEnd</key>
-			<string>NZ5MeCeftkQ=</string>
-			<key>searchContentSubStart</key>
-			<string>8UbdC6nTrdRzNkTYU8HKgns7XDWi3pczcq8qgXKG9Xc=</string>
-			<key>searchKeyEnd</key>
-			<string>iXK86noDbyk=</string>
-			<key>searchKeyStart</key>
-			<string>P5+KykDPcsI=</string>
-			<key>searchName</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>searchPostBody</key>
-			<string>Rw/g0hx26bI=</string>
-			<key>searchURL</key>
-			<string>ouf1B+DoqkfIzWyrMyF66E80VohNNdOrxibcsi4/VdnKMFBcH7epriZ/AmnFQkHao7mNEXcvc+7JQPLy1lWLt1/Vvx2o++qX</string>
-			<key>searchURLKeyEnd</key>
-			<string>+RcGgUUDS9U=</string>
-			<key>searchURLKeyStart</key>
-			<string>WeoSN45Y38DuZVX+uGphOSRqgVyiRk1W</string>
-			<key>searchURLKeyStart2</key>
-			<string>7qJd4BbDCfcUBJgSWP2t0g==</string>
 		</dict>
 		<dict>
 			<key>AuthorFirst</key>
@@ -1746,7 +1461,7 @@
 			<key>isNeedPost</key>
 			<false/>
 			<key>isValid</key>
-			<false/>
+			<true/>
 			<key>searchAuthorKeyEnd</key>
 			<string>2V1y1fR+rlM=</string>
 			<key>searchAuthorKeyEnd2</key>
@@ -2487,11 +2202,11 @@
 			<key>addFoloder</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>bookImgKeyEnd</key>
-			<string>+RcGgUUDS9U=</string>
+			<string>UZhFgGemBS8Thqs8vMPDoQ==</string>
 			<key>bookImgKeyEnd2</key>
-			<string>Rw/g0hx26bI=</string>
+			<string>+RcGgUUDS9U=</string>
 			<key>bookImgKeyStart</key>
-			<string>1CBMUtJPZeP+WIXldpRF1JoDE84nIb22SkXdTivcJkfvwLZ4ypBBuw==</string>
+			<string>p1lX3KWvhsthb4vGOfrW8cl02gCBj0Q3</string>
 			<key>chapterNameKeyEnd</key>
 			<string>fquI+R7EEc8=</string>
 			<key>chapterNameKeyStart</key>
@@ -2524,7 +2239,7 @@
 			<string>Rw/g0hx26bI=</string>
 			<key>contentFilterArray</key>
 			<array>
-				<string>--&gt;&gt;本章未完，点击下一页继续阅读</string>
+				<string>本章未完，点击下一页继续阅读。</string>
 				<string>请退出转码页面，请下载爱阅小说app 阅读最新章节。</string>
 				<string>八戒为你提供最快的</string>
 				<string>https://www.biquka.com</string>
@@ -2544,11 +2259,11 @@
 			<key>contentSubKeyStart2</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>detailURL</key>
-			<string>ouf1B+DoqkcPRbZMQkpj22c97jFwaeC3</string>
+			<string>HRhlcQn2Y6QaP3TiXVT/W/VMw0S3F9z7</string>
 			<key>isBackSearch</key>
 			<false/>
 			<key>isChapterNeedDetail</key>
-			<false/>
+			<true/>
 			<key>isChapterNeedNext</key>
 			<false/>
 			<key>isChapterNeedPrefix</key>
@@ -2564,13 +2279,13 @@
 			<key>isImgNeedDetail</key>
 			<false/>
 			<key>isKeyNeedGBK</key>
-			<true/>
+			<false/>
 			<key>isNeedAddFolderURL</key>
 			<false/>
 			<key>isNeedChangeURL</key>
 			<false/>
 			<key>isNeedDetail</key>
-			<false/>
+			<true/>
 			<key>isNeedDirectURLDetail</key>
 			<false/>
 			<key>isNeedGBK</key>
@@ -2578,7 +2293,7 @@
 			<key>isNeedParseMiddle</key>
 			<false/>
 			<key>isNeedPost</key>
-			<false/>
+			<true/>
 			<key>isNeedReplaceURL</key>
 			<false/>
 			<key>isNeedSlowDown</key>
@@ -2596,15 +2311,15 @@
 			<key>nextContentKeyEnd</key>
 			<string>BNUGFeYSREM=</string>
 			<key>nextContentKeyStart</key>
-			<string>X6cTp3BZ9ny/ojpGsHXmBA==</string>
+			<string>RFNFXR01Z9Y5z+IOAAwuuHUHQXCUiBU2</string>
 			<key>nextNotIncludeKey</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>searchAuthorKeyEnd</key>
-			<string>+RcGgUUDS9U=</string>
+			<string>fquI+R7EEc8=</string>
 			<key>searchAuthorKeyEnd2</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>searchAuthorKeyStart</key>
-			<string>1DXPAD+Obl0=</string>
+			<string>bW62oc8BIJpw7Q5ptl2OlXDhWIh0FqoZ</string>
 			<key>searchBookNameKeyEnd</key>
 			<string>fquI+R7EEc8=</string>
 			<key>searchBookNameKeyStart</key>
@@ -2634,9 +2349,9 @@
 			<key>searchName</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>searchPostBody</key>
-			<string>Rw/g0hx26bI=</string>
+			<string>B5JwIS62Kem86TJq7ix9+w==</string>
 			<key>searchURL</key>
-			<string>ouf1B+DoqkcPRbZMQkpj24TZZvcgiJL5BAVJsKUm4z/e7R4c5DCnTS8qCcp2JAhs90VKMW5/cZ8PBt2/FwSvyxIbSv1B7Y3s</string>
+			<string>HRhlcQn2Y6QaP3TiXVT/W2Cclk29XFXwJbYntWjH19lbtUzdDeE4HQ==</string>
 			<key>searchURLKeyEnd</key>
 			<string>+RcGgUUDS9U=</string>
 			<key>searchURLKeyStart</key>
@@ -3895,7 +3610,7 @@
 			<key>contentSubKeyStart2</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>detailURL</key>
-			<string>ouf1B+DoqkcDt1R38JXC63Wcok8wGvB5</string>
+			<string>ouf1B+Doqkca3h4eQ3LCgi3uGd5LKzhy</string>
 			<key>isBackSearch</key>
 			<false/>
 			<key>isChapterNeedDetail</key>
@@ -3951,15 +3666,15 @@
 			<key>nextNotIncludeKey</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>searchAuthorKeyEnd</key>
-			<string>6j9mMkD3SbI=</string>
+			<string>2V1y1fR+rlM=</string>
 			<key>searchAuthorKeyEnd2</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>searchAuthorKeyStart</key>
-			<string>1J9CTy/vEe+Y+YnmmcHrTA==</string>
+			<string>rSdaRN1/aR0=</string>
 			<key>searchBookNameKeyEnd</key>
-			<string>fquI+R7EEc8=</string>
+			<string>pkbhDLN5AsU=</string>
 			<key>searchBookNameKeyStart</key>
-			<string>nT2ThCAPZFM=</string>
+			<string>CZ0eactWJzo=</string>
 			<key>searchChapterKeyEnd</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>searchChapterKeyEnd2</key>
@@ -3979,15 +3694,15 @@
 			<key>searchContentSubStart</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>searchKeyEnd</key>
-			<string>p1lX3KWvhsuhU6EPOD4cUzQXh8au9nPQ</string>
+			<string>iCk06Xc0R+0=</string>
 			<key>searchKeyStart</key>
-			<string>p1lX3KWvhsu6hKvquSZYNKQZSuea9KbK</string>
+			<string>p1lX3KWvhsu3WRHe3P7QRkz3qKV6fzQz</string>
 			<key>searchName</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>searchPostBody</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>searchURL</key>
-			<string>ouf1B+DoqkcDt1R38JXC68UeCQ7D7bws/Z+OqfOyr9I=</string>
+			<string>ouf1B+DoqkfJyXtnOqSXL4i54oQVAAQv</string>
 			<key>searchURLKeyEnd</key>
 			<string>+RcGgUUDS9U=</string>
 			<key>searchURLKeyStart</key>
@@ -6070,8 +5785,8 @@
 			<string>vE6TdK2N2Hc=</string>
 			<key>contentFilterArray</key>
 			<array>
-				<string>m.laidudu.org</string>
-				<string>laidudu.org</string>
+				<string>m.xlaidudu.net</string>
+				<string>xlaidudu.net</string>
 				<string>来读读小说手机版阅读网址：</string>
 				<string>ibiqunai</string>
 				<string>零点看书全文字更新,牢记网址:</string>
@@ -6087,7 +5802,7 @@
 			<key>contentSubKeyStart2</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>detailURL</key>
-			<string>ouf1B+Doqkd73HLznVNmpEL8Gojk/W6u</string>
+			<string>ouf1B+Doqkf3WR1ru1oH/LILL6o4CwXJf7SD1KKhcOs=</string>
 			<key>isBackSearch</key>
 			<false/>
 			<key>isChapterNeedDetail</key>
@@ -6179,7 +5894,7 @@
 			<key>searchPostBody</key>
 			<string>B5JwIS62Kem86TJq7ix9+w==</string>
 			<key>searchURL</key>
-			<string>ouf1B+Doqkd73HLznVNmpJlCIC35x7m5fZ8M97CBagYT38uELL97yg==</string>
+			<string>ouf1B+Doqkf3WR1ru1oH/LILL6o4CwXJqHnrAWqG5Ya6DC+8wqeBGw==</string>
 			<key>searchURLKeyEnd</key>
 			<string>+RcGgUUDS9U=</string>
 			<key>searchURLKeyStart</key>
@@ -6273,7 +5988,8 @@
 			<key>contentFilterArray</key>
 			<array>
 				<string>手机站全新改版升级地址：</string>
-				<string>ibiquge.la，</string>
+				<string>ibiquges.com，</string>
+				<string>ibiquges，</string>
 				<string>数据和书签与电脑站同步，无广告清新阅读！</string>
 			</array>
 			<key>contentKeyEnd</key>
@@ -6287,7 +6003,7 @@
 			<key>contentSubKeyStart2</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>detailURL</key>
-			<string>ouf1B+DoqkfflJJKpjWIOlTTnIGCPo31</string>
+			<string>ouf1B+DoqkfflJJKpjWIOnWXfnCx3gTbik5vJf0DXHA=</string>
 			<key>isBackSearch</key>
 			<false/>
 			<key>isChapterNeedDetail</key>
@@ -6379,7 +6095,7 @@
 			<key>searchPostBody</key>
 			<string>B5JwIS62Kem86TJq7ix9+w==</string>
 			<key>searchURL</key>
-			<string>ouf1B+DoqkfflJJKpjWIOiO4Qh5RFlWpKPHBGG4wl5o01dR4z1YOdC2nCOGswRR7</string>
+			<string>ouf1B+DoqkfflJJKpjWIOnWXfnCx3gTbjyJ5OyocPQ8VA1UkXVCFQxDFDT9JpnpJQxkIVRb/LP0=</string>
 			<key>searchURLKeyEnd</key>
 			<string>+RcGgUUDS9U=</string>
 			<key>searchURLKeyStart</key>
@@ -7266,8 +6982,207 @@
 			<string>Rw/g0hx26bI=</string>
 		</dict>
 		<dict>
-			<key>isValid</key>
+			<key>AuthorFirst</key>
+			<true/>
+			<key>DirectISChangeURL</key>
 			<false/>
+			<key>DirectsearchAuthorKeyEnd</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>DirectsearchAuthorKeyEnd2</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>DirectsearchAuthorKeyStart</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>DirectsearchBookNameKeyEnd</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>DirectsearchBookNameKeyStart</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>DirectsearchBookNameKeyStart2</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>DirectsearchChapterKeyEnd</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>DirectsearchChapterKeyEnd2</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>DirectsearchChapterKeyStart</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>DirectsearchImageKeyEnd</key>
+			<string>+RcGgUUDS9U=</string>
+			<key>DirectsearchImageKeyEnd2</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>DirectsearchImageKeyStart</key>
+			<string>1CBMUtJPZeP+WIXldpRF1JoDE84nIb22SkXdTivcJkfvwLZ4ypBBuw==</string>
+			<key>DirectsearchURLKeyEnd</key>
+			<string>7qJd4BbDCfcUBJgSWP2t0g==</string>
+			<key>DirectsearchURLKeyEnd2</key>
+			<string>+RcGgUUDS9U=</string>
+			<key>DirectsearchURLKeyStart</key>
+			<string>p1lX3KWvhsvtTdIYu+JZwnskL7OEmfSE</string>
+			<key>DirectsearchURLKeyStart2</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>Ex_DirectsearchURLKey</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>PostReferer</key>
+			<string>ouf1B+DoqkdCNmDJnf2iY2nUsekidEjUTtIamkluZ8q//DhmX+rS0Q==</string>
+			<key>ReplaceURLKey</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>ReplaceURLKey2</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>addFolderURL</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>addFoloder</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>bookImgKeyEnd</key>
+			<string>+RcGgUUDS9U=</string>
+			<key>bookImgKeyEnd2</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>bookImgKeyStart</key>
+			<string>1CBMUtJPZeP+WIXldpRF1JoDE84nIb22SkXdTivcJkfvwLZ4ypBBuw==</string>
+			<key>chapterNameKeyEnd</key>
+			<string>fquI+R7EEc8=</string>
+			<key>chapterNameKeyStart</key>
+			<string>nT2ThCAPZFM=</string>
+			<key>chapterPageKeyEnd</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>chapterPageKeyStart</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>chapterPageNotInclude</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>chapterSplitKeyEnd</key>
+			<string>6LihDafm/m4=</string>
+			<key>chapterSplitKeyStart</key>
+			<string>P8NjEmW52zU=</string>
+			<key>chapterSubEnd</key>
+			<string>iCk06Xc0R+0=</string>
+			<key>chapterSubStart</key>
+			<string>EOPrVsqhsq/ndwk0NN3khg==</string>
+			<key>chapterSubStart2</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>chapterURLKeyEnd</key>
+			<string>+RcGgUUDS9U=</string>
+			<key>chapterURLKeyStart</key>
+			<string>7qJd4BbDCfcUBJgSWP2t0g==</string>
+			<key>contentFilterArray</key>
+			<array>
+				<string>本章尚未结束，请点击下一页继续阅读！</string>
+				<string>yanqingxiaoshuoba.org</string>
+				<string>九书院</string>
+				<string>https://www.biquka.com</string>
+				<string>biquka</string>
+				<string>&amp;lsquo;</string>
+				<string>&amp;rsquo;</string>
+				<string>&amp;middot;</string>
+			</array>
+			<key>contentKeyEnd</key>
+			<string>6j9mMkD3SbI=</string>
+			<key>contentKeyStart</key>
+			<string>Bk5dx7OKJZdXVVd0agX6MasruklRbUaA</string>
+			<key>contentSubKeyEnd</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>contentSubKeyStart</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>contentSubKeyStart2</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>cookiestr</key>
+			<string>3EwsrLkP8HNn3JNteKiJ/LMBNlTcOg6j</string>
+			<key>detailURL</key>
+			<string>ouf1B+DoqkcmS1K5R+lnuBmFmJpeyNG8BF3iRvLIP30EtnHZ9/6WOQ==</string>
+			<key>isBackSearch</key>
+			<false/>
+			<key>isChapterNeedDetail</key>
+			<true/>
+			<key>isChapterNeedNext</key>
+			<false/>
+			<key>isChapterNeedPrefix</key>
+			<false/>
+			<key>isContentFindNextWithDesc</key>
+			<false/>
+			<key>isContentNeedCheckInclude</key>
+			<false/>
+			<key>isContentNeedNext</key>
+			<true/>
+			<key>isDirectNeedUseImgURL</key>
+			<false/>
+			<key>isImgNeedDetail</key>
+			<false/>
+			<key>isKeyNeedGBK</key>
+			<false/>
+			<key>isNeedAddFolderURL</key>
+			<false/>
+			<key>isNeedChangeURL</key>
+			<false/>
+			<key>isNeedDetail</key>
+			<true/>
+			<key>isNeedDirectURLDetail</key>
+			<true/>
+			<key>isNeedGBK</key>
+			<false/>
+			<key>isNeedParseMiddle</key>
+			<true/>
+			<key>isNeedPost</key>
+			<true/>
+			<key>isNeedReplaceURL</key>
+			<false/>
+			<key>isNeedSlowDown</key>
+			<false/>
+			<key>isNextContentNeedDetail</key>
+			<true/>
+			<key>isNextNeedDetail</key>
+			<false/>
+			<key>isRemoveLastChapter</key>
+			<false/>
+			<key>isSearchNeedPage</key>
+			<false/>
+			<key>isValid</key>
+			<true/>
+			<key>nextContentKeyEnd</key>
+			<string>BNUGFeYSREM=</string>
+			<key>nextContentKeyStart</key>
+			<string>qZgEu0DTA0SE6bgcD+mPJuMM8DNQk9Yznzpk9lGIuvTX3sC6n0vy2g==</string>
+			<key>nextNotIncludeKey</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>searchAuthorKeyEnd</key>
+			<string>SYP6vwzP5wo=</string>
+			<key>searchAuthorKeyEnd2</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>searchAuthorKeyStart</key>
+			<string>BE9nKwHYXIEWhZ/VdfkX5A==</string>
+			<key>searchBookNameKeyEnd</key>
+			<string>+RcGgUUDS9U=</string>
+			<key>searchBookNameKeyStart</key>
+			<string>2TxAO6kWjm8=</string>
+			<key>searchChapterKeyEnd</key>
+			<string>pkbhDLN5AsU=</string>
+			<key>searchChapterKeyEnd2</key>
+			<string>fquI+R7EEc8=</string>
+			<key>searchChapterKeyStart</key>
+			<string>58OhoSAvj+LWc8Rtt/na2A==</string>
+			<key>searchChapterNextEnd</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>searchChapterNextPage</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>searchChapterNextStart</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>searchChapterNextStart2</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>searchContentSubEnd</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>searchContentSubStart</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>searchKeyEnd</key>
+			<string>iXK86noDbyk=</string>
+			<key>searchKeyStart</key>
+			<string>P5+KykDPcsI=</string>
+			<key>searchName</key>
+			<string>Rw/g0hx26bI=</string>
+			<key>searchPostBody</key>
+			<string>B5JwIS62Kem86TJq7ix9+w==</string>
+			<key>searchURL</key>
+			<string>ouf1B+DoqkdCNmDJnf2iY2nUsekidEjUTtIamkluZ8q//DhmX+rS0Q==</string>
+			<key>searchURLKeyEnd</key>
+			<string>+RcGgUUDS9U=</string>
+			<key>searchURLKeyStart</key>
+			<string>7qJd4BbDCfcUBJgSWP2t0g==</string>
+			<key>searchURLKeyStart2</key>
+			<string>Rw/g0hx26bI=</string>
 		</dict>
 		<dict>
 			<key>isValid</key>
@@ -9359,7 +9274,7 @@
 			<key>isSearchNeedPage</key>
 			<false/>
 			<key>isValid</key>
-			<true/>
+			<false/>
 			<key>nextContentKeyEnd</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>nextContentKeyStart</key>
@@ -9451,7 +9366,7 @@
 			<key>Ex_DirectsearchURLKey</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>PostReferer</key>
-			<string>Rw/g0hx26bI=</string>
+			<string>ouf1B+DoqkcL/wQ7/0w8MoIH/9BIgedeyyjBF2w2g1Pt1ucHzJ75cKuMiCpO7rhu</string>
 			<key>ReplaceURLKey</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>ReplaceURLKey2</key>
@@ -9479,17 +9394,28 @@
 			<key>chapterSplitKeyEnd</key>
 			<string>6LihDafm/m4=</string>
 			<key>chapterSplitKeyStart</key>
-			<string>mdXMs0xYgC0=</string>
+			<string>P8NjEmW52zU=</string>
 			<key>chapterSubEnd</key>
 			<string>iCk06Xc0R+0=</string>
 			<key>chapterSubStart</key>
-			<string>Klc/JeeBPTBFdCvmOTDGng==</string>
+			<string>EOPrVsqhsq/ndwk0NN3khg==</string>
 			<key>chapterSubStart2</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>chapterURLKeyEnd</key>
 			<string>+RcGgUUDS9U=</string>
 			<key>chapterURLKeyStart</key>
 			<string>7qJd4BbDCfcUBJgSWP2t0g==</string>
+			<key>contentFilterArray</key>
+			<array>
+				<string>本章尚未结束，请点击下一页继续阅读！</string>
+				<string>9shuyuan.org</string>
+				<string>九书院</string>
+				<string>https://www.biquka.com</string>
+				<string>biquka</string>
+				<string>&amp;lsquo;</string>
+				<string>&amp;rsquo;</string>
+				<string>&amp;middot;</string>
+			</array>
 			<key>contentKeyEnd</key>
 			<string>6j9mMkD3SbI=</string>
 			<key>contentKeyStart</key>
@@ -9501,13 +9427,13 @@
 			<key>contentSubKeyStart2</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>cookiestr</key>
-			<string>Rw/g0hx26bI=</string>
+			<string>3EwsrLkP8HNn3JNteKiJ/LMBNlTcOg6j</string>
 			<key>detailURL</key>
-			<string>ouf1B+DoqkcL/wQ7/0w8Mt10NlPVtaui5SRouwBgWbs=</string>
+			<string>ouf1B+DoqkcL/wQ7/0w8MoIH/9BIgeded9XKvOd5nsQ=</string>
 			<key>isBackSearch</key>
 			<false/>
 			<key>isChapterNeedDetail</key>
-			<false/>
+			<true/>
 			<key>isChapterNeedNext</key>
 			<false/>
 			<key>isChapterNeedPrefix</key>
@@ -9517,7 +9443,7 @@
 			<key>isContentNeedCheckInclude</key>
 			<false/>
 			<key>isContentNeedNext</key>
-			<false/>
+			<true/>
 			<key>isDirectNeedUseImgURL</key>
 			<false/>
 			<key>isImgNeedDetail</key>
@@ -9529,21 +9455,21 @@
 			<key>isNeedChangeURL</key>
 			<false/>
 			<key>isNeedDetail</key>
-			<false/>
+			<true/>
 			<key>isNeedDirectURLDetail</key>
-			<false/>
+			<true/>
 			<key>isNeedGBK</key>
 			<false/>
 			<key>isNeedParseMiddle</key>
 			<true/>
 			<key>isNeedPost</key>
-			<false/>
+			<true/>
 			<key>isNeedReplaceURL</key>
 			<false/>
 			<key>isNeedSlowDown</key>
 			<false/>
 			<key>isNextContentNeedDetail</key>
-			<false/>
+			<true/>
 			<key>isNextNeedDetail</key>
 			<false/>
 			<key>isRemoveLastChapter</key>
@@ -9553,17 +9479,17 @@
 			<key>isValid</key>
 			<true/>
 			<key>nextContentKeyEnd</key>
-			<string>Rw/g0hx26bI=</string>
+			<string>BNUGFeYSREM=</string>
 			<key>nextContentKeyStart</key>
-			<string>Rw/g0hx26bI=</string>
+			<string>qZgEu0DTA0SE6bgcD+mPJuMM8DNQk9Yznzpk9lGIuvTX3sC6n0vy2g==</string>
 			<key>nextNotIncludeKey</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>searchAuthorKeyEnd</key>
-			<string>2V1y1fR+rlM=</string>
+			<string>SYP6vwzP5wo=</string>
 			<key>searchAuthorKeyEnd2</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>searchAuthorKeyStart</key>
-			<string>1J9CTy/vEe+Axy+5VD9tWg==</string>
+			<string>BE9nKwHYXIEWhZ/VdfkX5A==</string>
 			<key>searchBookNameKeyEnd</key>
 			<string>+RcGgUUDS9U=</string>
 			<key>searchBookNameKeyStart</key>
@@ -9573,7 +9499,7 @@
 			<key>searchChapterKeyEnd2</key>
 			<string>fquI+R7EEc8=</string>
 			<key>searchChapterKeyStart</key>
-			<string>gino0CIyH3yqc+E0urSjvg==</string>
+			<string>58OhoSAvj+LWc8Rtt/na2A==</string>
 			<key>searchChapterNextEnd</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>searchChapterNextPage</key>
@@ -9587,15 +9513,15 @@
 			<key>searchContentSubStart</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>searchKeyEnd</key>
-			<string>iCk06Xc0R+0=</string>
+			<string>iXK86noDbyk=</string>
 			<key>searchKeyStart</key>
-			<string>hy79YblXMuU=</string>
+			<string>P5+KykDPcsI=</string>
 			<key>searchName</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>searchPostBody</key>
-			<string>Rw/g0hx26bI=</string>
+			<string>B5JwIS62Kem86TJq7ix9+w==</string>
 			<key>searchURL</key>
-			<string>ouf1B+DoqkcL/wQ7/0w8Mt10NlPVtauiKrYt73m2kULld8BADu/2L0UtGvrxTlNI/JBgmVSAyE1fsVGXIHO8/w==</string>
+			<string>ouf1B+Doqkc9qEn3/z/2WzJgU2GYKGTYQDAXYmjFFT4=</string>
 			<key>searchURLKeyEnd</key>
 			<string>+RcGgUUDS9U=</string>
 			<key>searchURLKeyStart</key>
@@ -10732,7 +10658,7 @@
 			<key>isSearchNeedPage</key>
 			<false/>
 			<key>isValid</key>
-			<true/>
+			<false/>
 			<key>nextContentKeyEnd</key>
 			<string>Rw/g0hx26bI=</string>
 			<key>nextContentKeyStart</key>
