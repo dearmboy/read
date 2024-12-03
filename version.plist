@@ -2,83 +2,110 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>versionNum</key>
-	<string>2.1.4</string>
-	<key>isuserank</key>
-	<true/>
-	<key>isuserank1</key>
-	<true/>
-	<key>isuserank2</key>
-	<true/>
-	<key>isuserank3</key>
-	<true/>
-	<key>isuserank4</key>
-	<true/>
-	<key>isuserank5</key>
-	<true/>
-	<key>isuserank6</key>
-	<true/>
-	<key>isuserank7</key>
-	<true/>
-	<key>isuserank8</key>
-	<true/>
-	<key>isuserank9</key>
-	<true/>
-	<key>isuserank10</key>
-	<true/>
-	<key>isuserankinstall</key>
-	<true/>
-	<key>isuserankinstall2</key>
-	<true/>
-	<key>isuserankinstall3</key>
-	<true/>
-	<key>isuserankinstall4</key>
-	<true/>
-	<key>isuserankinstall5</key>
-	<true/>
-	<key>isuserankinstall6</key>
-	<true/>
-	<key>isuserankinstall7</key>
-	<true/>
-	<key>isHalftopon</key>
-	<false/>
-	<key>isFtopon</key>
-	<true/>
-	<key>isnotusetoponnativead</key>
-	<false/>
-	<key>isnotusetoponopenad</key>
-	<false/>
-	<key>isuseopenad</key>
-	<false/>
-	<key>isusebannerad</key>
-	<false/>
-	<key>isNotCheckIP</key>
-	<false/>
-	<key>isneedupgrade</key>
-	<true/>
-	<key>upgrade_minversion</key>
-	<string>270</string>
-	<key>upgrade_maxversion</key>
-	<string>280</string>
-	<key>Numberof_Chapter_AD</key>
-	<string>0</string>
-	<key>Numberof_Chapter_AD_Scroll</key>
-	<string>5</string>
-	<key>TimeofRewardAD</key>
-	<string>3600</string>
-	<key>TimeofOpenAD</key>
-	<string>3600</string>
-	<key>noticeversion</key>
-	<string>1.5</string>
-	<key>noticecontent</key>
-	<string>第一次安装时，ios14以下系统进入app后请等待五分钟再进行搜索，如果遇到无法搜索的情况，请通过“意见反馈”联系我们！</string>
-	<key>settingversionurl</key>
-	<string>https://raw.githubusercontent.com/dearmboy/read/main/version.plist</string>
-	<key>settingdataurl</key>
-	<string>https://raw.githubusercontent.com/dearmboy/read/main/source.plist</string>
-	<key>accesarray</key>
-	<array>
-		<string>拯救美强惨反派</string>
-	</array>
+<key>versionNum</key>
+<string>2.1.8</string>
+<key>isopensearch</key>
+<true/>
+<key>isopensearch2</key>
+<true/>
+<key>ischeckarea</key>
+<true/>
+<key>blockareaarr</key>
+<array>
+<string>上海</string>
+</array>
+<key>sourceversionno</key>
+<string>2</string>
+<key>hotkeyarray</key>
+<array>
+<string>神农道君</string>
+<string>宿命之环</string>
+<string>轮回乐园</string>
+<string>谁让他修仙的！</string>
+<string>高武纪元</string>
+<string>1979黄金时代</string>
+<string>太平令</string>
+<string>黄昏分界</string>
+<string>仙工开物</string>
+<string>玄鉴仙族</string>
+</array>
+<key>isclosesearch</key>
+<false/>
+<key>isuserank</key>
+<true/>
+<key>isuserank1</key>
+<true/>
+<key>isuserank2</key>
+<true/>
+<key>isuserank3</key>
+<true/>
+<key>isuserank4</key>
+<true/>
+<key>isuserank5</key>
+<true/>
+<key>isuserank6</key>
+<true/>
+<key>isuserank7</key>
+<true/>
+<key>isuserank8</key>
+<true/>
+<key>isuserank9</key>
+<true/>
+<key>isuserank10</key>
+<true/>
+<key>isuserankinstall</key>
+<true/>
+<key>isuserankinstall2</key>
+<true/>
+<key>isuserankinstall3</key>
+<true/>
+<key>isuserankinstall4</key>
+<true/>
+<key>isuserankinstall5</key>
+<true/>
+<key>isuserankinstall6</key>
+<true/>
+<key>isuserankinstall7</key>
+<true/>
+<key>isHalftopon</key>
+<false/>
+<key>isFtopon</key>
+<true/>
+<key>isnotusetoponnativead</key>
+<false/>
+<key>isnotusetoponopenad</key>
+<false/>
+<key>isuseopenad</key>
+<false/>
+<key>isusebannerad</key>
+<false/>
+<key>isNotCheckIP</key>
+<false/>
+<key>isneedupgrade</key>
+<true/>
+<key>upgrade_minversion</key>
+<string>280</string>
+<key>upgrade_maxversion</key>
+<string>282</string>
+<key>Numberof_Chapter_AD</key>
+<string>0</string>
+<key>Numberof_Chapter_AD_Scroll</key>
+<string>4</string>
+<key>TimeofRewardAD</key>
+<string>3600</string>
+<key>TimeofOpenAD</key>
+<string>3600</string>
+<key>noticeversion</key>
+<string>2.2</string>
+<key>noticecontent</key>
+<string>如果需要听书功能或者遇到广告自动跳转的问题，可以先使用“笔工阁”。有任何问题请通过“意见反馈”联系我们，感谢支持！</string>
+<key>settingversionurl</key>
+<string>https://raw.githubusercontent.com/dearmboy/read/main/version.plist</string>
+<key>settingdataurl</key>
+<string>https://raw.githubusercontent.com/dearmboy/read/main/source.plist</string>
+<key>accesarray</key>
+<array>
+<string>拯救美强惨反派</string>
+</array>
 </dict>
 </plist>
